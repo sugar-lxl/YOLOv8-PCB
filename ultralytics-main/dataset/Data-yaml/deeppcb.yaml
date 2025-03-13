@@ -1,0 +1,8 @@
+train: C:/Users/lxl/Desktop/finish-yolo/ultralytics-main/deeppcb1/train
+val: C:/Users/lxl/Desktop/finish-yolo/ultralytics-main/deeppcb1/valid
+test: C:/Users/lxl/Desktop/finish-yolo/ultralytics-main/deeppcb1/test
+
+# Classes 
+
+nc: 6
+names: ['open','short','mousebite','spur','copper','pin-hole']

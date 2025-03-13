@@ -1,0 +1,8 @@
+train: C:/Users/lxl/Desktop/finish-yolo/ultralytics-main/PCB_data/train
+val: C:/Users/lxl/Desktop/finish-yolo/ultralytics-main/PCB_data/valid
+test: C:/Users/lxl/Desktop/finish-yolo/ultralytics-main/PCB_data/test
+
+# Classes 
+
+nc: 6
+names: ['Missing_hole', 'Mouse_bite', 'Open_circuit', 'Short', 'Spur', 'Spurious_copper']
