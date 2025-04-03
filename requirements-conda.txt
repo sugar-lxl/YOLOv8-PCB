@@ -1,0 +1,15 @@
+certifi
+charset-normalizer
+et_xmlfile
+idna
+kiwisolver
+mkl-fft
+mkl-random
+mkl-service
+mpmath
+numpy
+openpyxl
+sympy
+typing_extensions
+tzdata
+urllib3
